@@ -1,1 +1,1 @@
-# MajicCouponApi
+# MagicCouponApi
